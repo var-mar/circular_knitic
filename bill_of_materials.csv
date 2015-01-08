@@ -1,0 +1,35 @@
+Budget - Circular Knitic,,,,
+description,real price,quantity,total,link
+needles,€0.45,100,€45.00,http://www.bsk.co.uk/knitmastersilver-reed-sk120--sr120-xkn8-763-p.asp
+stepper motor nema23,€50.00,1,€50.00,
+Big Easy stepper motor Driver,€20.00,1,€20.00,
+Arduino Uno,€21.00,1,€21.00,
+ventilator 12v 40mm x 40mm,€6.00,1,€6.00,
+power supply 12v,€20.00,1,€20.00,
+cabling,€8.00,1,€8.00,
+carbon fiber tensor 2mm,€1.00,1,€1.00,http://www.mwmaterialsworld.com/es/barra-fibra-de-carbono.html
+bearings (bore 5mm x 10mm x 4mm),€0.60,14,€8.40,
+screws and nuts,€10.00,1,€10.00,
+shaft of motor,€7.00,1,€7.00,http://www.pololu.com/product/2675
+switch,€4.00,1,€4.00,
+paper clips,€0.01,30,€0.30,
+Plexiglas 5mm,€10.00,2,€20.00,http://proplastik.ee
+Plexiglas 6mm,€11.00,1,€11.00,http://proplastik.ee
+filament,€38.00,1,€38.00,
+makerbeam 150mm,€2.20,2,€4.40,
+makerbeam 60mm,€0.80,1,€0.80,
+makerbeam 40mm,€0.60,1,€0.60,
+makerbeam screws,€3.00,1,€3.00,
+makerbeam Lshape,€0.90,5,€4.50,
+wood structure,€25.00,1,€25.00,
+claw weight,€6.00,4,€24.00,
+paraphine ,€2.00,1,€2.00,
+,,Total,€334.00,
+Manufacturing,,,,
+3d prints outers,€15.00,4,€60.00,
+3d print inners,€6.00,24,€144.00,
+3d print yarnholders,€12.00,4,€48.00,
+3d print bearring holders,€3.00,5.00,€15.00,
+3d print connectors,€1.00,15,€15.00,
+Lasercutting,€90.00,0.5,€45.00,
+,,Total,€327.00,
