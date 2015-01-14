@@ -14,4 +14,5 @@ made for reprap,0.15,7,ZshapeRep (repaired).stl,4
 ,0.1,13,yarnHolder0212 (repaired).stl,4
 ,,,,
 *print all parts in 'High Quality' (the option that your slicr program has).,,,, 
-Max layer height 0.1mm and infill 15% or 20%. With layer height 0.06 no filing is required,,,,
+Max layer height 0.1mm and infill 15% or 20%.,,,,
+With layer height 0.06 no filing is required,,,,
