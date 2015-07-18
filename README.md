@@ -2,9 +2,9 @@ Circular knitic
 ===============
 
 Circular Knitic, an open hardware knitting machine. 
-Project video: https://www.youtube.com/watch?v=-GFXAGRynNM
-Instructables manual: www.instructables.com/id/Circular-Knitic/
-Manual with all pieces: http://issuu.com/marcanet/docs/circular_knitic_documentation
+* Project video: https://www.youtube.com/watch?v=-GFXAGRynNM
+* Instructables manual: www.instructables.com/id/Circular-Knitic/
+* Manual with all pieces: http://issuu.com/marcanet/docs/circular_knitic_documentation
 
 When building the machine, it is crucial to have the parts 3D printed precisely. Hence, print the parts in High Quality.
 We have printed our machine with Ultimaker2, Makerbot Replicator 2, Makerbot Replicator 2x, and RepRapBcn+. Since reprap is not so preciase, some STL files are names as ...REP, which we have altered for that printer.
