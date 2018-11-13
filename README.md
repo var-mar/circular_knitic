@@ -14,6 +14,10 @@ For laser cutting we have used 5mm and 6mm plexiglass. Use 6mm one for the gears
 We are doing workshops to build one or more machines in one day, if you are interested hosting a workshop please let us know:
 varvarag@gmail.com  or mar.canet@gmail.com See photos from WeMake Milano Makerspace workshop done in February 2015: https://www.flickr.com/photos/mcanet/sets/72157650274803049/
 
+Opensourceecology had design some parts of the machine in parametric design in openscad:
+https://wiki.opensourceecology.org/wiki/CircularKnitic_Parametric
+
+
 Please send a photo if you build one machine to us we happy to make a gallery to all machines produced and a map with locations.
 
 Copyright (c) 2014 Varvara Guljajeva & Mar Canet 
