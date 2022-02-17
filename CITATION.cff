@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Guljajeva
+    given-names: Varvara
+    orcid: https://orcid.org/0000-0002-0261-3121
+  - family-names: Canet Sola
+    given-names: Mar
+    orcid: https://orcid.org/0000-0001-5986-3239
+title: "Circular Knitic"
+version: 1.0.0
+date-released: 2014-11-18
