@@ -1,10 +1,13 @@
 Circular knitic
 ===============
 
-Circular Knitic, an open hardware knitting machine. 
+Circular Knitic, an open hardware knitting machine made by artist duo Varvara & Mar.  
+* Project: https://var-mar.info/circular-knitic/ 
 * Project video: https://www.youtube.com/watch?v=-GFXAGRynNM
 * Instructables manual: www.instructables.com/id/Circular-Knitic/
 * Manual with all pieces: http://issuu.com/marcanet/docs/circular_knitic_documentation
+
+Brief history: This machine was done for the DOERS exhibition curated by David Cuartielles in Etopia Center for Art & Technology. We did an art intervention with 5 Circular Knitic machines, which were knitting for the time of the show (8 months). Hence, slowly the ceiling of art centre were covered with knitted tube garments. Each machine was knitting in different colour invading the exhibition space.
 
 When building the machine, it is crucial to have the parts 3D printed precisely. Hence, print the parts in High Quality.
 We have printed our machine with Ultimaker2, Makerbot Replicator 2, Makerbot Replicator 2x, and RepRapBcn+. Since reprap is not so preciase, some STL files are names as ...REP, which we have altered for that printer.
