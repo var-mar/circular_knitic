@@ -16,6 +16,9 @@ varvarag@gmail.com  or mar.canet@gmail.com See photos from WeMake Milano Makersp
 
 If you want to make a donation you can do in our PayPal account: varvarag@gmail.com 
 
+We have publish some articles about this topic:
+- Knitic - The Revolution of Soft Digital Fabrication. DH 2013: 497-499 [http://dh2013.unl.edu/abstracts/ab-173.html]
+
 Opensourceecology had design some parts of the machine in parametric design in openscad:
 https://wiki.opensourceecology.org/wiki/CircularKnitic_Parametric
 
