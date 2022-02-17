@@ -20,6 +20,7 @@ varvarag@gmail.com  or mar.canet@gmail.com See photos from WeMake Milano Makersp
 If you want to make a donation you can do in our PayPal account: varvarag@gmail.com 
 
 To cite use:
+'''
 @software{guljajeva_varvara_2014_6124168,
   author       = {Guljajeva, Varvara and
                   Canet Sola, Mar},
@@ -32,6 +33,7 @@ To cite use:
   doi          = {10.5281/zenodo.6124168},
   url          = {https://doi.org/10.5281/zenodo.6124168}
 }
+'''
 
 We have publish some articles about this topic:
 - Knitic - The Revolution of Soft Digital Fabrication. DH 2013: 497-499 [http://dh2013.unl.edu/abstracts/ab-173.html]
