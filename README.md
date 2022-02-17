@@ -27,7 +27,7 @@ To cite use:
   title        = {Circular Knitic},
   month        = nov,
   year         = 2014,
-  note         = {If you use this software, please cite it as below.},
+  note         = {If you use this repository project, please cite it as below.},
   publisher    = {Zenodo},
   version      = {1.0.0},
   doi          = {10.5281/zenodo.6124168},
